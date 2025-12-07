@@ -1,4 +1,4 @@
-# FraudWatch — Real-Time Fraud Detection & Risk Scoring Engine | PROJECT LINK  
+# FraudWatch — Real-Time Fraud Detection & Risk Scoring Engine 
 **Pre-authorization risk intelligence for modern payment infrastructure with streaming decisions, ledger-grade auditability, and low-latency guardrails**
 
 <img width="2294" height="3541" alt="Fraudwatch-3" src="https://github.com/user-attachments/assets/b3f25c7f-67d6-455c-b0ce-bf56cce9efb6" />
